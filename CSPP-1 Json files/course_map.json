@@ -1,0 +1,250 @@
+{
+    "activities": [],
+    "learningObjectives": [
+    ],
+    "overview": [
+    ],
+    "title": "CSPP-1 December-18",
+    "units": [{
+            "activities": [
+                "Introduction to Python", 
+                "Knowledge", 
+                "Exercise-1", 
+                "Exercise-2", 
+                "Machines", 
+                "Exercise-3", 
+                "Languages", 
+                "Exercise-4", 
+                "Types", 
+                "Exercise-5", 
+                "Exercise-6", 
+                "Variables", 
+                "Exercise-7", 
+                "Operators and Branching", 
+                "Exercise-8", 
+                "Exercise-9", 
+                "Exercise-10"
+            ], 
+            "title": "Introduction to Python Programming", 
+            "overview": [
+                "Last unit we discussed and practices flowcharts. In this unit we discuss introduction to python. Python is an easy to learn, powerful programming language. It has efficient high-level data structures. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms."
+            ], 
+            "learningObjectives": [
+                "Computer fundamental operations", 
+                "Learn machine architecture", 
+                "Declarative and imperative knowledge", 
+                "Learn syntax and semantics of programming language", 
+                "Learn Operators and Branching"
+            ]
+        }, 
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-2"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-3"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-4"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-5"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-6"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-7"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-8"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-9"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-10"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-11"
+        },
+        {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-12"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-13"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-14"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-15"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-16"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-17"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-18"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-19"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-20"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-21"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-22"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-23"
+        },
+                {
+            "activities": [
+            ],
+            "learningObjectives": [
+            ],
+            "overview": [
+            ],
+            "title": "Module-24"
+        }
+
+
+    ]
+}

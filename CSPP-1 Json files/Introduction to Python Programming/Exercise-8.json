@@ -1,0 +1,131 @@
+[
+	{
+		"activityType":"quiz",
+		"title":"Last activity we leared about Operators and Branching in python. Let's answer few questions in this activity",
+		"quizDescription":[{
+				"text":"For each of the following expressions, indicate the value returned, or if the evaluation would lead to an error, write the word 'error' (note this is a word, not a string, no quotes). While you could simply type these expressions into an IDE, we encourage you to answer them directly since this will help reinforce your understanding of basic Python expressions.<br><br><b>Note:The python 'None' keyword<br>In Python, the keyword <code>None</code> is frequently used to represent the absence of a value. None is the only value in Python of type <code>NoneType.</code></b> "
+				}],
+		"questions":[
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>3 > 4</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>4.0 > 3.999</code>"
+				}],
+				"max_marks":"1",
+				"answer":"True",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>4 > 4</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>4 > + 4</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>2 + 2 == 4</code>"
+				}],
+				"max_marks":"1",
+				"answer":"True",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>True or False</code>"
+				}],
+				"max_marks":"1",
+				"answer":"True",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>False or False</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>not False</code>"
+				}],
+				"max_marks":"1",
+				"answer":"True",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>3.0 - 1.0 != 5.0 - 3.0</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>3 > 4 or (2 < 3 and 9 > 10)</code>"
+				}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>4 > 5 or 3 < 4 and 9 > 8</code>"
+			}],
+				"max_marks":"1",
+				"answer":"True",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			},
+			{
+				"questionType":"fillintheblank",
+				"questionText":[{
+				"text":"<code>not(4 > 3 and 100 > 6)</code>"
+			}],
+				"max_marks":"1",
+				"answer":"False",
+				"correct_feedback": "Correct",
+            	"wrong_feedback": "Incorrect"
+			}
+		]
+	}
+]

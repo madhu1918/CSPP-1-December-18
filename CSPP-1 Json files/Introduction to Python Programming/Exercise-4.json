@@ -1,0 +1,45 @@
+[{
+	"activityType": "quiz",
+	"title": "Last activity we learned about the aspect of language. Let's answer few questions in this activity",
+	"quizDescription": "Choose the term described by each of the following definitions.<br><br>Definitions:",
+	"questions": [{
+			"questionType": "dropdown",
+			"questionText": [{
+				"text": "Determines whether a string is legal"
+			}],
+			"max_marks": "1",
+			"dropdown": {
+				"option": ["Select an option", "Semantics", "Static semantics", "Syntax"],
+				"correct": "Syntax"
+			},
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "dropdown",
+			"questionText": [{
+				"text": "Determines whether a string has meaning"
+			}],
+			"max_marks": "1",
+			"dropdown": {
+				"option": ["Select an option", "Semantics", "Static semantics", "Syntax"],
+				"correct": "Static semantics"
+			},
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		},
+		{
+			"questionType": "dropdown",
+			"questionText": [{
+				"text": "Assigns a meaning to a legal sentence"
+			}],
+			"max_marks": "1",
+			"dropdown": {
+				"option": ["Select an option", "Semantics", "Static semantics", "Syntax"],
+				"correct": "Semantics"
+			},
+			"correct_feedback": "Correct",
+			"wrong_feedback": "Incorrect"
+		}
+	]
+}]
